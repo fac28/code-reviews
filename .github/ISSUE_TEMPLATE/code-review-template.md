@@ -33,3 +33,21 @@ assignees: ''
 [Can you see any obvious bugs or areas to improve?]
 
 ### Instructions
+
+[Does everything work as expected or were there missing instructions?]
+
+### File structure
+
+[When you open the project in your editor, does the file structure make sense?]
+
+### Flow of control
+
+[ Can you you follow the different paths the code might take?]
+
+### Naming
+
+[Do variables and functions have clear and descriptive names?]
+
+### Readability
+
+[Do you understand the code?]
